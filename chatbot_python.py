@@ -41,7 +41,7 @@ len(paragrafos)
 
 paragrafos[0]
 
-paragrafos[0].text
+paragrafos[0].tex
 
 conteudo = ''
 for p in paragrafos:
